@@ -6,16 +6,16 @@
 
 流程设计器：生成BPMN2.0的xml文件，导入下载上传预览
 
-![图片暂时无法显示](image\bpmn.png)
+![图片暂时无法显示](image/bpmn.png)
 
 
 
 
 
-![图片暂时无法显示](image\bpmn2.png)
+![图片暂时无法显示](image/bpmn2.png)
 
 代码生成，单表的Entity、mapper、controller、service全都一键生成
 
 
 
-![图片暂时无法显示](image\代码生成1.png)
+![图片暂时无法显示](image/代码生成1.png)
