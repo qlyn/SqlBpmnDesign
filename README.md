@@ -12,11 +12,10 @@
 
 
 
-!(D:\Git\SqlBpmnDesign\image\bpmn.png)
-
 ![image-20240821095358920](image\bpmn2.png)
 
 代码生成，单表的Entity、mapper、controller、service全都一键生成
 
-![image-20240821095513034](image\代码生成1.png)
-=======
+
+
+![](image\代码生成1.png)
